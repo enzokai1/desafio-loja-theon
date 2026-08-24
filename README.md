@@ -1,9 +1,9 @@
 #  Loja de RPG - Desafio Theon CEGI
 
-## 🔗 Link do Repositório
+##  Link do Repositório
 https://github.com/enzokai1/desafio-loja-theon
 
-## 🚀 Como abrir e testar a cena no Unity
+##  Como abrir e testar a cena no Unity
 1. Faça o download ou clone este repositório para o seu computador.
 2. Abra o **Unity Hub**, clique em **Add** (Adicionar projeto a partir do disco) e selecione a pasta descompactada.
 3. Abra o projeto (desenvolvido na versão **6000.3.11f1**).
